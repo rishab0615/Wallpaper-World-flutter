@@ -1,16 +1,82 @@
-# wallpaperapp
+# 🖼️ Wallpaper World (Flutter)
 
-A new Flutter project.
+A modern wallpaper browsing app built using Flutter, featuring high-quality wallpapers, smooth UI, and real-world functionality powered by the Pexels API.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Overview
 
-A few resources to get you started if this is your first Flutter project:
+Wallpaper World is a mobile application that allows users to explore, search, and interact with high-quality wallpapers.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The app demonstrates clean UI design, API integration, and real-world features like downloading and applying wallpapers.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Features
+
+* 🖼️ Browse high-quality wallpapers
+* 🔍 Search wallpapers using keywords
+* 📂 Explore categories
+* ⬇️ Download wallpapers to device
+* 📤 Share wallpapers
+* 🎯 Apply wallpapers (device-specific handling)
+* ⚡ Smooth and responsive UI
+* 🌐 API integration (Pexels)
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/home.png" width="220"/>
+  <img src="assets/screenshots/mountains.png" width="220"/>
+  <img src="assets/screenshots/fullscreen.png" width="220"/>
+  <img src="assets/screenshots/nature.png" width="220"/>
+
+</p>
+
+---
+
+## 🎨 UI & Design
+
+* Clean and minimal layout
+* Focus on visual content
+* Consistent spacing and styling
+* Smooth scrolling and transitions
+
+---
+
+## 🧱 Architecture
+
+* Modular folder structure
+* Separation of UI and logic
+* Reusable widgets
+* Scalable and maintainable codebase
+
+---
+
+## 🛠 Tech Stack
+
+* Flutter
+* Dart
+* REST API (Pexels API)
+* HTTP/Dio (for API calls)
+
+---
+
+## 🚀 Purpose
+
+This project focuses on:
+
+* Building a real-world Flutter application
+* Working with APIs and async data
+* Creating smooth and modern UI
+* Showcasing app development skills for clients
+
+---
+
+## 👨‍💻 Author
+
+Rishab Sharma
+
+---
