@@ -46,15 +46,6 @@ The app demonstrates clean UI design, API integration, and real-world features l
 
 ---
 
-## 🧱 Architecture
-
-* Modular folder structure
-* Separation of UI and logic
-* Reusable widgets
-* Scalable and maintainable codebase
-
----
-
 ## 🛠 Tech Stack
 
 * Flutter
